@@ -1,0 +1,10 @@
+package main
+
+var (
+    allowedOrigins = []string{
+        // "",
+    }
+    allowedOriginPrefixes = []string{
+        "moz-extension://",
+    }
+)
